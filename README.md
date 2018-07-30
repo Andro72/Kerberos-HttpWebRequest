@@ -1,5 +1,7 @@
 # KerberosC#
 Kerberos authentication HttpWebRequest impersonation in C#
+NOT with ICrendentials DefaultCredentials
+NOT with NetworkCredential DefaultNetworkCredentials
 
 
 Program.cs is making impersonation request and geting session request. Creating C# SPNEGO negTokenInit
