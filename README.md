@@ -11,3 +11,4 @@ References for project:
 System.IdentityModel
 System.DirectoryServices.AccountManagement
 
+https://medium.com/@andr0s/selenium-kerberos-identification-4cbe53d4bd7a
