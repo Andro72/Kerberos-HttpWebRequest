@@ -1,4 +1,4 @@
-# KerberosC#
+# Kerberos C#
 Kerberos authentication HttpWebRequest impersonation in C#
 NOT with ICrendentials DefaultCredentials
 NOT with NetworkCredential DefaultNetworkCredentials
